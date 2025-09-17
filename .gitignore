@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/sonar-project.js
+/sonar-project.properties
+/sonar-scanner.txt
